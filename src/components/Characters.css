@@ -1,0 +1,7 @@
+.Home-characters {
+	display: flex;
+	gap: 2rem;
+	justify-content: space-around;
+	flex-wrap: wrap;
+	padding-block: 1.5rem;
+}

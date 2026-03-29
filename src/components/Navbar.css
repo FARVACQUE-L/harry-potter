@@ -1,0 +1,20 @@
+.nav-global {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	box-shadow: 0 0.5rem 1rem var(--border-harry-potter);
+}
+.nav-logo {
+	width: 5%;
+	margin: 0 0 0 1rem;
+}
+.nav-ul {
+	display: flex;
+	justify-content: space-around;
+	margin: 0 2rem;
+	gap: 2rem;
+	list-style: none;
+}
+.nav-li {
+	text-decoration: none;
+}

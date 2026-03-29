@@ -1,0 +1,11 @@
+:root {
+	--border: #2e303a;
+	--border-harry-potter: rgba(218, 165, 32);
+}
+.banner-Global {
+	margin-block: 2rem;
+	border-bottom: 1px solid var(--border-harry-potter);
+}
+.banner-image {
+	width: 50%;
+}

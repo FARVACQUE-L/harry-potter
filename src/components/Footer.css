@@ -1,0 +1,20 @@
+.Footer-Global {
+	margin-top: 2rem;
+	box-shadow: 0 -8px 16px var(--border-harry-potter);
+	display: flex;
+	justify-content: space-around;
+	text-align: left;
+}
+.Footer-block,
+.Footer-block1 {
+	margin-block: 2rem;
+}
+.Footer-block {
+	margin-left: 1rem;
+}
+.Footer-block1 {
+	margin-right: 1rem;
+}
+.Footer-title {
+	color: var(--border-harry-potter);
+}
