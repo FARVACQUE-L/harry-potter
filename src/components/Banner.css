@@ -3,9 +3,19 @@
 	--border-harry-potter: rgba(218, 165, 32);
 }
 .banner-Global {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
 	margin-block: 2rem;
 	border-bottom: 1px solid var(--border-harry-potter);
 }
-.banner-image {
+.banner-title {
 	width: 50%;
+	margin-bottom: 1rem;
+}
+.banner-house {
+	width: 20%;
+}
+.banner-vif {
+	width: 20%;
 }
